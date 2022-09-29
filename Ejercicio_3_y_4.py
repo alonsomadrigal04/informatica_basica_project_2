@@ -1,2 +1,2 @@
-a = int(input("Dame un número"))
-print(a)
+b = int(input("Dame un número"))
+print(b)
