@@ -1,5 +1,6 @@
 b = int(input("Dame un número"))
 print(b)
+a=1
 
 #Editado Carlos
 edad = int(input("Escribe tu edad"))
